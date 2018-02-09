@@ -78,3 +78,5 @@ Feel free to browse each file to learn new things and to keep them at hand when 
 </table>
 
 > 👋 Do you want your company to be listed there? Contribute with a cheatsheet for your favorite programming language, framework or development tool.
+
+@@@@@@@@@@@@@@@@
